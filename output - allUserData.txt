@@ -1,0 +1,23 @@
+Michael R. Boykin
+Polynomial Program
+
+add
+Poly1 input:   25x^2 + 13
+Poly2 input:   13x^3 + 6x + 2
+Result Output: 13x^3 + 25x^2 + 6x + 15
+
+evaluate
+Poly1:  13x^3 + 25x^2 + 6x + 15
+x =     4
+Result: 1271
+
+add
+Poly1 input:   x^3 + 2x^5 + 8x^3
+Poly2 input:   1x^5 + 2
+Result Output: 3x^5 + 9x^3 + 2
+
+evaluate
+Poly1:  18x + 5
+x =     1
+Result: 23
+

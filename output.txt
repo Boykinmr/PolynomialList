@@ -1,0 +1,8 @@
+Michael R. Boykin
+Polynomial Program
+
+evaluate
+Poly1:  6x^2 + 5
+x =     2
+Result: 29
+

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Term
+comment0.text=\r\n\ This\ class\ makes\ Term\ objects\ that\ are\ put\ in\ a\ linkedlist\ from\ the\ Polynomial\ class.\r\n\r\n\ @author\ Michael\ R.\ Boykin\r\n\ @version\ 2017-11-13\r\n
+comment1.params=createTermString
+comment1.target=Term(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Term.\ \ This\ constructor\ passes\ off\ the\ \r\n\ \ \ construction\ to\ a\ method\ with\ the\ same\ string\ that\ it\ received.\r\n
+comment2.params=stringToTerms
+comment2.target=void\ parseStringToTerm(java.lang.String)
+comment2.text=\r\n\ This\ method\ separates\ the\ A\ (coefficient)\ and\ n\ (exponent)\ parts\ out\ of\ a\ passed\ \r\n\ \ \ string\ in\ the\ form\ of\ Ax^n,\ x^n\ (A\=1),\ Ax\ (n\=1)\ &\ x\ (A&n\=1).\ \ It\ then\ sets\ the\r\n\ \ \ appropriate\ int\ values\ in\ this\ term.\r\n\r\n\ @param\ \ stringToTerms\ \ string\ passed\ in\ to\ parse\ out\ the\ integers\ from.\r\n\ @return\ None.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ This\ method\ separates\ the\ A\ (coefficient)\ and\ n\ (exponent)\ parts\ out\ of\ the\ Term\r\n\ \ \ and\ returns\ it\ Ax^n,\ x^n\ (A\=1),\ Ax\ (n\=1)\ &\ x\ (A&n\=1).\r\n\r\n\ @param\ \ None.\r\n\ @return\ the\ string\ representation\ of\ this\ term.\r\n\ @overrides\ toString()\r\n
+numComments=4

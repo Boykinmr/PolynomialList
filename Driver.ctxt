@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ The\ Driver\ class\ manages\ file\ output\ operations\ for\ the\ polynomial\ program\ and\ allows\r\n\ \ \ the\ user\ a\ method\ to\ input\ data\ from\ user\ or\ file.\ \ It\ also\ allows\ the\ user\ to\ exit\r\n\ \ \ the\ program.\r\n\r\n\ @author\ Michael\ R.\ Boykin\r\n\ @version\ 2017-11-13\r\n
+comment1.params=
+comment1.target=Driver()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Driver\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ This\ is\ the\ main\ method\ that\ we\ start\ from.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getInputMethod()
+comment3.text=\r\n\ This\ method\ shows\ a\ menu\ with\ three\ options\ telling\ the\ program\ to\ [e]xit,\ get\ \r\n\ \ \ [u]ser\ data\ or\ [f]ile\ data.\ \ It\ waits\ for\ the\ user\ choice\ and\ then\ returns\ it.\r\n\ \r\n\ @param\ \ None.\r\n\ @return\ String\ \ user\ entered\ choice\ of\ [u],\ [f]\ or\ [e]\r\n
+numComments=4

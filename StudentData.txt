@@ -1,0 +1,18 @@
+add
+25x^2 + 13
+13x^3 + 6x + 2
+evaluate
+13x^3 + 25x^2 + 6x + 15
+4
+add
+x^3 + 2x^5 + 8x^3
+1x^5 + 2
+evaluate
+13x + 5 + 5x
+1
+evaluate
+14x^2 + x + 9
+8
+add
+14x^2
+x + 9
